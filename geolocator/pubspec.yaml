@@ -30,7 +30,7 @@ dependencies:
   geolocator_android:
     git:
       url: https://github.com/qky1412/flutter-geolocator
-      path: flutter-geolocator/geolocator_android
+      path: geolocator_android
   geolocator_apple: ^2.3.0
   geolocator_web: ^2.2.0
   geolocator_windows: ^0.2.2
